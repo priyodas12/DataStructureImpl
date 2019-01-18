@@ -32,6 +32,7 @@ public class LinkedListI {
 		l1.add(20);
 		l1.add(17);
 		l1.add(18);
+		l1.add(19);
 		System.out.println(l1.getSize());
 		
 	}
